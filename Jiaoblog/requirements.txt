@@ -48,7 +48,7 @@ Jinja2==2.7.2
 kombu==3.0.29
 lockfile==0.8
 lxml==3.3.3
-Mako==0.9.1
+Mako==1.2.2
 Markdown==2.6.2
 MarkupSafe==0.18
 meld3==1.0.2
